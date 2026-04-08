@@ -2,6 +2,7 @@
 ## SECTION – A 
 ### Question.1 
 Blinking 3 different LEDs at time intervals of 500ms, 1000ms and 1500ms.  
+
 Tinkercad link - https://www.tinkercad.com/things/5HdyhLYJ9ur-question-1-blinking-led-with-different-time-interval?sharecode=imZpMkDK5LMwRQKzXroiasW85Y-XOX_y2cVFdLF_ibg
 
 CIRCUIT :   
@@ -17,6 +18,7 @@ LEDs interval, Hence each LED is blinking at their time interval simultaneously.
 
 ### Question.2 
 Controlling colour of RGB LED and blinking speed of an-other LED with potentiometer. 
+
 Tinkercad link - https://www.tinkercad.com/things/lde5l3f6Jce-question2colour-of-rgb-led-and-blink-speed-of-led-with-pot?sharecode=WtE9F-jU759YRTKKfyS_gHrVJ0ISvpMeLoREZZM7fL0
 
 CIRCUIT :   
@@ -35,6 +37,7 @@ be turned OFF and vice-versa.
 
 ### Question.3 
 Build a reaction time tester. 
+
 Tinkercad link - https://www.tinkercad.com/things/iyhYQlI8Z82-question-3-build-a-reaction-time-tester?sharecode=h3M6lu64mrO0cVgX0fJLwacP1_l9KAD2n1SZ3hbiDSI
 
 CIRCUIT :   
@@ -50,6 +53,7 @@ monitor.
 
 ## SECTION – B 
 ### 1. Automatic Night Lamp.  
+
 Tinkercad link - https://www.tinkercad.com/things/lKh865Wozu0-33-use-an-ldrlight-dependent-resistorto-detect-light-levels?sharecode=mcgvPJ_mAu4jSyTjUREOAgCFx3anapNnoaN-tHhu_Vs
 
 CIRCUIT :   
@@ -61,6 +65,7 @@ more light will be OFF because there is more light, if input is less light will 
 surrounding of light detector. 
 
 ### 2. Ultra Sonic Sensor, distance measuring and showing on LCD and RGB LED indicating level of danger. 
+
 tinkercad link - https://www.tinkercad.com/things/jmU1AOOdDji-ultrasonic-sensor-with-lcd-display-showing-distance-with-gyr-led?sharecode=6kQ38jxxbuGthtwghh0ExvkewCn8rPVplXjd48GwMAM
 
 CIRCUIT :   
