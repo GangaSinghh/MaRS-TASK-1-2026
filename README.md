@@ -2,6 +2,7 @@
 ## SECTION – A 
 ### Question.1 
 Blinking 3 different LEDs at time intervals of 500ms, 1000ms and 1500ms.  
+Tinkercad link - https://www.tinkercad.com/things/5HdyhLYJ9ur-question-1-blinking-led-with-different-time-interval?sharecode=imZpMkDK5LMwRQKzXroiasW85Y-XOX_y2cVFdLF_ibg
 CIRCUIT :   
 It was easy each LED cathode will be GROUND and anode will go to unique one of digital input pins. 
 So tricky past was coding actually. 
@@ -15,6 +16,7 @@ LEDs interval, Hence each LED is blinking at their time interval simultaneously.
 
 ### Question.2 
 Controlling colour of RGB LED and blinking speed of an-other LED with potentiometer. 
+Tinkercad link - https://www.tinkercad.com/things/lde5l3f6Jce-question2colour-of-rgb-led-and-blink-speed-of-led-with-pot?sharecode=WtE9F-jU759YRTKKfyS_gHrVJ0ISvpMeLoREZZM7fL0
 CIRCUIT :   
 Potentiometer, will have constant 5V connection, one will be grounded and middle pin will be 
 connected to any pin of analog input. LED was simple, ground and digital output pin with 220ohm 
@@ -31,6 +33,7 @@ be turned OFF and vice-versa.
 
 ### Question.3 
 Build a reaction time tester. 
+Tinkercad link - https://www.tinkercad.com/things/iyhYQlI8Z82-question-3-build-a-reaction-time-tester?sharecode=h3M6lu64mrO0cVgX0fJLwacP1_l9KAD2n1SZ3hbiDSI
 CIRCUIT :   
 This was easiest in SEC-A, just LED, ground and any unique Digital OUTPUTpin, and button, used 
 PULL_UP thing, so Button was grounded and cross pin was attached to digital INPUTpin. Simple. 
@@ -44,6 +47,7 @@ monitor.
 
 ## SECTION – B 
 ### 1. Automatic Night Lamp.  
+Tinkercad link - https://www.tinkercad.com/things/lKh865Wozu0-33-use-an-ldrlight-dependent-resistorto-detect-light-levels?sharecode=mcgvPJ_mAu4jSyTjUREOAgCFx3anapNnoaN-tHhu_Vs
 CIRCUIT :   
 It was easy LED output from one of digital pin. Ambient light detector analog input in one of analog 
 pins. 
@@ -53,6 +57,7 @@ more light will be OFF because there is more light, if input is less light will 
 surrounding of light detector. 
 
 ### 2. Ultra Sonic Sensor, distance measuring and showing on LCD and RGB LED indicating level of danger. 
+tinkercad link - https://www.tinkercad.com/things/jmU1AOOdDji-ultrasonic-sensor-with-lcd-display-showing-distance-with-gyr-led?sharecode=6kQ38jxxbuGthtwghh0ExvkewCn8rPVplXjd48GwMAM
 CIRCUIT :   
 I didn’t know anything about this, used internet to make the circuit.But now im aware of this circuit.  
 CODE FOR ARDUINO : 
